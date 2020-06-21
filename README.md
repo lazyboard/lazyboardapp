@@ -1,8 +1,8 @@
 ## Welcome to LazyBoard
+LazyBoard is a shortcut keyboard app, it save your email templates, canned support replies, fast form completion, addresses, phone numbers, email addresses, emoji, or anything you type regularly, and just need one tap when inputting.
 
-### LazyBoard is a universal app, so it works equally well on iPhone, iPod Touch, iPad, and Android, it helps you to avoid writing boring or frequent used phrases regularly, it just save them one time and then you can use them easily.
 
-# # You can download it from here
+## You can download it from here
 ### [iOS](https://apps.apple.com/us/app/bokhary-phrase-keyboard/id1459047306?mt=8)
-### [Android](https://play.google.com/store/apps/details?id=com.bokhary.lazyboard).
+### [Android](https://play.google.com/store/apps/details?id=com.bokhary.lazyboard)
 ### 
